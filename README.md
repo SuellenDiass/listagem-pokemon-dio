@@ -23,8 +23,7 @@ OBJETIVO DO CURSO
 
  Após criar uma listagem conforme o professor orientou, criei um card com detalhe individual do pokemon, contendo imagem, tipo e  caracteristicas
 
-Link do projeto: https://suellendiass.github.io/listagem-pokemon-dio/
-
+ - [x]Link do projeto: https://listagem-pokemon-dio.suellensouza.repl.co
 - ### Curso feito na Dio.me com o mentor Renan Johannsen-Software Engineer Lead
 <p>
     <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/3266640?v=4"/>
